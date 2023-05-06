@@ -1,0 +1,35 @@
+body {
+    background-color: maroon ; 
+}
+
+img {
+    width: auto ;
+    height: 500px ;
+    border: 1px solid rgb(39, 252, 20) ;
+}
+
+.center {
+    margin-left: auto ;
+    margin-right: auto ;
+    display: block ;
+}
+
+h1 {
+    font-size: 32px ;
+}
+
+.title {
+    background-color: cyan ;
+    text-align: center ;
+    width: auto ;
+    height: auto ;
+    margin-left: 40% ;
+    margin-right: 40% ;
+}
+
+#frontlinks {
+    background-color: cyan ;
+    padding-left: 200px ;
+    font-size: 50px ;
+}
+
